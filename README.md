@@ -132,7 +132,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tae0072&theme=default&hide_border=true&locale=kr" />
+<img src="https://streak-stats.demolab.com/?user=Tae0072&theme=default&hide_border=true&locale=kr" />
 
 </div>
 
