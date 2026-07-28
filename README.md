@@ -1,10 +1,11 @@
-﻿<div align="center">
+<div align="center">
 
-<!-- ▼ 아래 "Tae0072" 를 본인 실명(예: 강태오)으로 바꾸면 이력서용으로 더 좋습니다 ▼ -->
+<!-- ▼ 아래 "Tae0072" 를 본인 실명으로 바꾸면 이력서용으로 더 좋습니다 ▼ -->
 # 안녕하세요, 백엔드 개발자를 준비하는 Tae0072입니다 👋
 
 **Java · Spring Boot** 로 서버를 만들고, **Flutter** 로 앱을 붙이고,
-**Python** 으로 AI 엔진을 얹는 것까지 — 하나의 서비스를 끝까지 만들어보는 것을 좋아합니다.
+**Docker · Kubernetes** 위에 올려 **MSA**로 나누는 것까지 —
+하나의 서비스를 끝까지 만들어보는 것을 좋아합니다.
 
 <br/>
 
@@ -17,8 +18,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 **Java / Spring Boot 백엔드 개발자**를 목표로 학습하고 있습니다.
-- 🤝 2026년 상반기부터 **팀 프로젝트 5개**를 진행하며 기획 → 설계 → 개발 → 문서화 전 과정을 경험했습니다.
+- 🎯 **Java / Spring Boot 백엔드 개발자**를 목표로 하고 있습니다.
+- 🧱 컴퓨터 구조(bit·RAM·JVM)부터 **Java → 네트워크/소켓 → 데이터베이스 → 웹 → Spring → MSA** 까지 순서대로 밟아왔습니다. "왜 이 기술이 나왔는가"를 먼저 이해하고 넘어가는 방식을 좋아합니다.
+- 🤝 2026년 상반기에 **팀 프로젝트 5개**를 진행하며 기획 → 설계 → 개발 → 문서화 전 과정을 경험했습니다.
 - 📝 **문서화**를 중요하게 생각합니다. 프로젝트마다 요구사항 정의서 · ERD · API 명세 · 아키텍처 문서를 별도 저장소로 관리하고, 팀이 재사용할 수 있도록 [문서 템플릿](https://github.com/Tae0072/team-project-templates)으로 정리했습니다.
 - 🤖 최근에는 **음악 생성 · TTS(음성 합성) AI 엔진**을 직접 빌드해 서비스에 붙이는 작업을 하고 있습니다.
 
@@ -26,34 +28,78 @@
 
 ## 🛠 Tech Stack
 
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA%20/%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend / Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+### Language
+![Java](https://img.shields.io/badge/Java%2021-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**AI / Data**
+### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-4B8BBE?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=flat-square)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+### Frontend / Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-4285F4?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
+![AJAX](https://img.shields.io/badge/AJAX-0088CC?style=flat-square)
+![Mustache](https://img.shields.io/badge/Mustache-DB4B27?style=flat-square)
 
-**Infra / Tools**
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white)
+![H2](https://img.shields.io/badge/H2%20Database-09476B?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+### Infra / DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+### 다뤄본 개념 · 프로토콜
+`HTTP` `TCP/UDP 소켓` `WebSocket` `SSE` `Polling` `REST API` `DNS` `CORS(Origin·Preflight)` `CSRF` `Base64` `RSA`
+`객체지향` `SOLID` `DI` `AOP` `ORM(LAZY/EAGER)` `OSIV` `필터 체인`
+`MSA` `DDD` `Saga·보상 트랜잭션` `클린 아키텍처` `MVVM` `배포 전략`
+`트랜잭션` `인덱스(BST·AVL)` `DDL/DML/DCL/TCL` `Stream API` `Optional` `제네릭` `컬렉션` `람다` `스레드`
+
+---
+
+## 📚 학습 로드맵
+
+교육 과정에서 배운 내용을 [Notion 기술 블로그](https://app.notion.com/p/2b544e698ee7806490aaffdf2a9b25d4)에 6단계로 정리하고 있습니다.
+
+| 단계 | 주제 | 주요 내용 |
+|---|---|---|
+| 1 | **Java Programming** | bit·RAM·JVM 등 컴퓨터 기초 / 변수·배열·연산자 / 객체지향·생성자·예외처리 / 제네릭·컬렉션·HashMap / 스레드·람다·Stream / 정렬·해시 알고리즘 |
+| 2 | **Network & Socket** | 소켓 통신, 패킷/서킷 스위칭, OSI 계층, 유니·브로드·멀티캐스트 / HTTP·URL·URI·DNS·GET |
+| 3 | **Database** | SQL 16단계 실습(JOIN·서브쿼리·GROUP BY·PIVOT·순위·파티셔닝) / RDBMS vs NoSQL / 트랜잭션·REDO·UNDO·더티체킹 / 인덱스와 BST·AVL / JDBC 직접 구현 |
+| 4 | **Web Frontend** | HTML 구조·Stateless / CSS Grid·position / JavaScript(V8·단일스레드 비동기·fetch·DOM) / Babel·Node.js |
+| 5 | **Backend (Spring)** | Apache·Tomcat 요청 흐름 / 서블릿으로 HTTP 이해 / Spring v1~v4 단계별 구현(ORM·인증/권한·댓글) / Spring Security·필터 체인·CSRF / AOP·DI·SOLID / REST API·AJAX·Nginx·프로파일 분리 |
+| 6 | **MSA** | Docker·Dockerfile·Compose / Kubernetes(Pod·Deployment·ReplicaSet·롤링 업데이트·Minikube) / Kafka 비동기 메시징 / WebSocket 실시간 알림 / User·Product·Order·Delivery 4개 서비스 분리 실습 / Saga 보상 트랜잭션 / Flutter 클린 아키텍처 |
 
 ---
 
@@ -68,7 +114,7 @@
 | 저장소 | 설명 |
 |---|---|
 | [QT-AI-2nd-Team-Project](https://github.com/Tae0072/QT-AI-2nd-Team-Project) | 서비스 본체. 팀원들과 이슈 기반으로 협업하며 개발 |
-| [QT-AI-MUSIC-engine](https://github.com/Tae0072/QT-AI-MUSIC-engine) | YuE 모델 기반 음악 생성 엔진. Windows 환경에서 바로 돌아가도록 빌드 환경을 다시 구성하고 오픈소스로 공개 (CC BY-NC 4.0) |
+| [QT-AI-MUSIC-engine](https://github.com/Tae0072/QT-AI-MUSIC-engine) | YuE 모델 기반 음악 생성 엔진. Windows 환경에서 바로 돌아가도록 빌드 환경을 재구성하고 오픈소스로 공개 (CC BY-NC 4.0) |
 | [QT-AI-TTS-engin](https://github.com/Tae0072/QT-AI-TTS-engin) | 텍스트를 음성으로 변환하는 TTS 엔진 |
 
 <br/>
@@ -112,7 +158,7 @@
 
 ---
 
-## 📚 학습 기록
+## 🗂 학습 저장소
 
 | 기간 | 내용 | 저장소 |
 |---|---|---|
@@ -127,12 +173,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tae0072&show_icons=true&theme=default&hide_border=true&include_all_commits=true&locale=kr" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae0072&layout=compact&theme=default&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Tae0072&theme=default&hide_border=true&locale=kr" />
+<img src="https://streak-stats.demolab.com/?user=Tae0072&theme=default&hide_border=true&locale=kr" alt="GitHub Streak" />
 
 </div>
 
