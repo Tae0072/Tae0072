@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- ▼ 아래 "Tae0072" 를 본인 실명(예: 강태오)으로 바꾸면 이력서용으로 더 좋습니다 ▼ -->
 # 안녕하세요, 백엔드 개발자를 준비하는 Tae0072입니다 👋
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/labonsoft@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labonsoft@gmail.com)
+[![Gmail](https://img.shields.io/badge/rkdxodh41@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkdxodh41@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tae0072)
 
 </div>
@@ -142,6 +142,6 @@
 
 📮 **함께 일하고 싶으시다면 편하게 연락 주세요**
 
-[![Gmail](https://img.shields.io/badge/labonsoft@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labonsoft@gmail.com)
+[![Gmail](https://img.shields.io/badge/rkdxodh41@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rkdxodh41@gmail.com)
 
 </div>
